@@ -1,0 +1,44 @@
+@import '../index.scss';
+
+#contenedor-news {
+    margin-top: 0;
+}
+
+.contenedor {
+    .titulo {
+        display: flex;
+        justify-content: center;
+        padding-top: 2px;
+        background-color: $primary-color;
+        color: $secondary-color;
+        text-align: center;
+        padding: 2vh 0;
+        margin-bottom: 0;
+        vertical-align: middle;
+
+        span {
+            text-transform: uppercase;
+            font-size: 18px;
+        }
+
+    }
+
+    .container-fluid {
+        padding-top: 15px;
+    }
+
+    .news-row {
+
+        justify-content: space-around;
+        margin-right: auto;
+        margin-left: auto;
+        margin-bottom: 20px;
+
+    }
+    .logo {
+        margin-left: 15px;
+        height: 18px;
+        vertical-align: middle;
+    }
+    
+}

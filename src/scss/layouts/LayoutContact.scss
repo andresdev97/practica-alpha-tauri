@@ -1,0 +1,10 @@
+@import "../index.scss";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Open+Sans+Condensed:wght@700&display=swap');
+
+.contenedor {
+    font-family: 'Open Sans Condensed', sans-serif;
+    .contenido {
+        display: flex;
+        justify-content: center;
+    }
+}

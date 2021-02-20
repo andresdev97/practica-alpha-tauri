@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "name": "Daniil",
+        "lastname": "Kvyat",
+        "number": 26,
+        "age": 26,
+        "nac": "Russia",
+        "role": "Piloto de escudería",
+        "img": "https://e0.365dm.com/f1/drivers/h_full_1451.png"
+    },
+    {
+        "id": 1,
+        "name": "Pierre",
+        "lastname": "Gasly",
+        "number": 10,
+        "age": 24,
+        "nac": "France",
+        "role": "Piloto de escudería",
+        "img": "https://e0.365dm.com/f1/drivers/h_full_1483.png"
+    },
+    {
+        "id": 2,
+        "name": "Sebástien",
+        "lastname": "Buemi",
+        "number": null,
+        "age": 31,
+        "nac": "Switzerland",
+        "role": "Piloto de reserva",
+        "img": "https://i.ibb.co/v3KdYjf/sebastien-buemi-15d016asdasdasd.png"
+    },
+    {
+        "id": 3,
+        "name": "Sérgio",
+        "lastname": "Sette Câmara",
+        "number": null,
+        "age": 22,
+        "nac": "Brasil",
+        "role": "Piloto de reserva",
+        "img": "https://i.ibb.co/NSYLwyJ/pngkit-camara-png-7298826asd.png"
+    }
+]

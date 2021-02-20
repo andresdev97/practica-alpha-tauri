@@ -1,0 +1,23 @@
+@import "../index.scss";
+
+.form-container {
+  margin-top: 25px;
+  text-transform: uppercase;
+
+  .btn {
+    text-transform: uppercase;
+    background-color: $primary-color;
+    border-color: $primary-color;
+  }
+
+  .btn:hover {
+    transition: .3s;
+    background: $secondary-color;
+    color: $primary-color;
+  }
+
+  .form-control {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+}

@@ -1,0 +1,31 @@
+@import '../index.scss';
+
+.card {
+
+    .card-img-overlay {
+        top: auto;
+        color: $secondary-color;
+        background-color: rgba($color: $primary-color, $alpha: 0.4);
+        border-radius: 5px 5px 0 0;
+        word-wrap: break-word;
+
+        .card-title {
+            margin-bottom: .50rem;
+            font-weight: bold;
+        }
+    }
+
+    .img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        
+    }
+
+    .img:hover {
+            transform: scale(1.03);
+            transition: 0.5s;
+          
+    }
+}
+
