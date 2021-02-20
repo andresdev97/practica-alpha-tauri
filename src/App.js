@@ -14,7 +14,7 @@ export default function App() {
     <Router>
         <Route component={NavbarAlt}/>
         <Switch>
-          <Route exact path='/' component={LayoutHome} />
+          <Route exact path='/practica-alpha-tauri' component={LayoutHome} />
           <Route exact path='/team' component={LayoutTeam} />
           <Route exact path='/contact' component={LayoutContact} />
         </Switch>
