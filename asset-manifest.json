@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/practica-alpha-tauri/static/css/main.5f2fe40e.chunk.css",
+    "main.js": "/practica-alpha-tauri/static/js/main.6623a14a.chunk.js",
+    "main.js.map": "/practica-alpha-tauri/static/js/main.6623a14a.chunk.js.map",
+    "runtime-main.js": "/practica-alpha-tauri/static/js/runtime-main.c2a5f7e8.js",
+    "runtime-main.js.map": "/practica-alpha-tauri/static/js/runtime-main.c2a5f7e8.js.map",
+    "static/css/2.37865b2a.chunk.css": "/practica-alpha-tauri/static/css/2.37865b2a.chunk.css",
+    "static/js/2.b281a6f9.chunk.js": "/practica-alpha-tauri/static/js/2.b281a6f9.chunk.js",
+    "static/js/2.b281a6f9.chunk.js.map": "/practica-alpha-tauri/static/js/2.b281a6f9.chunk.js.map",
+    "index.html": "/practica-alpha-tauri/index.html",
+    "precache-manifest.6d9ec8e7a81a920e99364b19d7707d9b.js": "/practica-alpha-tauri/precache-manifest.6d9ec8e7a81a920e99364b19d7707d9b.js",
+    "service-worker.js": "/practica-alpha-tauri/service-worker.js",
+    "static/css/2.37865b2a.chunk.css.map": "/practica-alpha-tauri/static/css/2.37865b2a.chunk.css.map",
+    "static/css/main.5f2fe40e.chunk.css.map": "/practica-alpha-tauri/static/css/main.5f2fe40e.chunk.css.map",
+    "static/js/2.b281a6f9.chunk.js.LICENSE.txt": "/practica-alpha-tauri/static/js/2.b281a6f9.chunk.js.LICENSE.txt",
+    "static/media/alpha-carousel1.jpg": "/practica-alpha-tauri/static/media/alpha-carousel1.9bd56672.jpg",
+    "static/media/alpha-carousel2.jpg": "/practica-alpha-tauri/static/media/alpha-carousel2.f91cd9cd.jpg",
+    "static/media/alpha-carousel3.jpg": "/practica-alpha-tauri/static/media/alpha-carousel3.933f8e75.jpg",
+    "static/media/alpha-tauri.png": "/practica-alpha-tauri/static/media/alpha-tauri.f8683c8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2a5f7e8.js",
+    "static/css/2.37865b2a.chunk.css",
+    "static/js/2.b281a6f9.chunk.js",
+    "static/css/main.5f2fe40e.chunk.css",
+    "static/js/main.6623a14a.chunk.js"
+  ]
+}
